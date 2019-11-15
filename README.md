@@ -21,7 +21,7 @@ git clone https://github.com/ddguru777/react-native-lenmo-demo.git
 # Install dependencies
 yarn install or npm install
 
-# Install expo-font and react-native-reanimated
+# If you have faced an Expo Font load error, install expo-font and react-native-reanimated
 ## Please note that use the expo install for these two npm modules.
 
 expo install expo-font
